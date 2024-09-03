@@ -1,1 +1,5 @@
-/* BASIC STYLES HERE */
+.vending-img {
+  width: 20em;
+  object-fit: contain;
+  object-position: center;
+}
